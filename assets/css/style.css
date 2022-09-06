@@ -114,5 +114,15 @@ main #container2 section{
   background-color: rgb(43, 211, 155);
 }
 
+.pink{
+  color: white;
+  background-color: rgb(216, 91, 154);
+}
+
+.yellow{
+  color: white;
+  background-color: rgb(233, 233, 58);
+}
+
 
 /* /MAIN */
