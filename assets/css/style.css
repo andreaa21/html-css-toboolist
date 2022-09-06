@@ -3,3 +3,24 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body{
+  background-color: lightgray;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* HEADER */
+
+header{
+  background-color: white;
+  padding: 10px 10px;
+}
+header h1{
+  display: inline-block;
+  font-size: 40px;
+}
+header img{
+  vertical-align: top;
+}
+
+/* /HEADER */
