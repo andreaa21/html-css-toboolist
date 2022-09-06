@@ -30,13 +30,17 @@ header img{
 .container{
   background-color: white;
   border-radius: 5px;
-  width: 50%;
-  max-width: 1200px;
-  margin: 50px 200px;
+  width: 70%;
+  max-width: 1000px;
+  margin: 50px auto;
 }
 
 #container1{
   padding: 20px 20px;
+}
+
+#container2{
+  margin-top: -45px;
 }
 
 main #container1 span{
