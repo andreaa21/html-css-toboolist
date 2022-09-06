@@ -24,3 +24,41 @@ header img{
 }
 
 /* /HEADER */
+
+/* MAIN */
+
+.container{
+  background-color: white;
+  border-radius: 5px;
+  width: 50%;
+  max-width: 1200px;
+  margin: 50px 200px;
+}
+
+#container1{
+  padding: 20px 20px;
+}
+
+main #container1 span{
+  display: inline-block;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 35px;
+  width: 100px;
+  height: 35px;
+}
+
+.blue{
+  background-color: rgb(77, 139, 231);
+  color: white;
+}
+
+#btn2{
+  color: grey;
+  border: 1px solid grey;
+}
+
+
+
+
+/* /MAIN */
