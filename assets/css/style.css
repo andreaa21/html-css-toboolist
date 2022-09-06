@@ -66,6 +66,7 @@ main #container1 span{
   line-height: 30px;
   border-radius: 100px;
   font-size: 0.7rem;
+  margin-left: 5px;
 }
 
 main #container2 section{
@@ -82,8 +83,35 @@ main #container2 section{
   margin-right: 10px;
 }
 
+.cross{
+  display: inline-block;
+  width: 20px;
+  color: red;
+  border: 1px solid red;
+  border-radius: 50px;
+  text-align: center;
+  margin-right: 10px;
+}
+
 #container2 section p{
+  display: inline-block;
   padding: 10px 0;
+}
+
+
+.orange{
+  color: white;
+  background-color: orange;
+}
+
+.purple{
+  color: white;
+  background-color: rgb(170, 96, 240);
+}
+
+.green{
+  color: white;
+  background-color: rgb(43, 211, 155);
 }
 
 
